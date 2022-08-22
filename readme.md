@@ -13,4 +13,7 @@ React.js
 ***
 ## Domain
 Nicewhite.xyz
+## Links  
+[Homepage](https://github.com/yoni13/nice-white-home)  
+[App](https://github.com/yoni13/nice-white/)
 
